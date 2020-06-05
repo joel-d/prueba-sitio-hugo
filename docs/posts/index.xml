@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mi sitio Hugo</title>
-    <link>http://example.org/posts/</link>
+    <link>http://joel-d.github.io/prueba-sitio-hugo/posts/</link>
     <description>Recent content in Posts on Mi sitio Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Fri, 05 Jun 2020 00:44:56 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://joel-d.github.io/prueba-sitio-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bienvenidos a Hugo</title>
-      <link>http://example.org/posts/bienvenidos-a-hugo/</link>
+      <link>http://joel-d.github.io/prueba-sitio-hugo/posts/bienvenidos-a-hugo/</link>
       <pubDate>Fri, 05 Jun 2020 00:44:56 -0500</pubDate>
       
-      <guid>http://example.org/posts/bienvenidos-a-hugo/</guid>
+      <guid>http://joel-d.github.io/prueba-sitio-hugo/posts/bienvenidos-a-hugo/</guid>
       <description>Esta es la bienvedida al sitio de post</description>
     </item>
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
+      <link>http://joel-d.github.io/prueba-sitio-hugo/posts/primer-post/</link>
       <pubDate>Fri, 05 Jun 2020 00:42:31 -0500</pubDate>
       
-      <guid>http://example.org/posts/primer-post/</guid>
+      <guid>http://joel-d.github.io/prueba-sitio-hugo/posts/primer-post/</guid>
       <description>Este es el primer post</description>
     </item>
     
