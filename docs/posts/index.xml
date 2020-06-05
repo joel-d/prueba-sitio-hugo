@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Mi sitio Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 05 Jun 2020 00:44:56 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2020 01:47:34 -0500</lastBuildDate>
     
 	<atom:link href="http://joel-d.github.io/prueba-sitio-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prueba Nueva</title>
+      <link>http://joel-d.github.io/prueba-sitio-hugo/posts/prueba-nueva/</link>
+      <pubDate>Fri, 05 Jun 2020 01:47:34 -0500</pubDate>
+      
+      <guid>http://joel-d.github.io/prueba-sitio-hugo/posts/prueba-nueva/</guid>
+      <description>Prueba nueva</description>
+    </item>
     
     <item>
       <title>Bienvenidos a Hugo</title>
